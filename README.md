@@ -18,7 +18,7 @@ K-means | 1038/km |
 Genetic  | 83526/km |
 Kmedoids  | 1038/km | 
 
-**_Note_**: balanced on kmeans algorithm. between random clustering and uniform clustering.Testing in dataset datasample 2<br>
+**_Note_**: balanced on kmeans algorithm. Between random clustering and uniform clustering.Testing in dataset datasample 2<br>
 
 Algorithm | distance total| times |
 ----------|---------------|-------|
